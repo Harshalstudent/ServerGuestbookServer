@@ -1,0 +1,36 @@
+[
+  {
+    "id": "3990b41c-bd7f-4b73-ab13-23396aedb16e",
+    "name": "awd",
+    "msg": "yoo",
+    "createdAt": "2026-10-20T12:55:59.920Z",
+    "updatedAt": "2026-10-22T13:26:13.675Z"
+  },
+  {
+    "id": "cb307c75-7f35-48e3-b67b-ba72262c6d02",
+    "name": "Yoo",
+    "msg": "awDs",
+    "createdAt": "2026-10-22T13:26:30.716Z"
+  },
+  {
+    "id": "8f0493eb-8819-4b36-a7de-80537ca19ba5",
+    "username": "admin",
+    "passwordHash": "$2b$12$1jK1HDnkBp3m8UrsoZtzt.wQr0wljQsgcHMJlzyei7zKMy1W5EJ1S",
+    "role": "admin",
+    "createdAt": "2026-10-30T13:14:41.163Z"
+  },
+  {
+    "id": "745a5f80-19df-49ba-bf30-c8d370421ff7",
+    "username": "harshal",
+    "passwordHash": "$2b$12$HkTukClEGGIKg/z535CmbO0wa7vc/YkXT0Qwr2aD4H506jYEDK5xa",
+    "role": "user",
+    "createdAt": "2026-10-30T13:26:16.419Z"
+  },
+  {
+    "id": "62c784e9-e707-46ad-b02d-c26770482b99",
+    "username": "harsh21",
+    "passwordHash": "$2b$12$vl3QXuzRSRmPo89LYqFn4.WENUeftq.RTTCR27a6zk4RqCTdNfZHm",
+    "role": "user",
+    "createdAt": "2026-10-30T13:33:33.720Z"
+  }
+]
